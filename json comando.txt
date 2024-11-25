@@ -1,0 +1,30 @@
+npm install -g json-server
+
+json-server --watch almacen.json --host 0.0.0.0 --port 3000
+
+npm install angularx-qrcode --save
+
+npm install swiper@latest
+
+import { BannerComponent } from '../banner/banner.component';
+
+
+
+
+
+ionic build
+
+
+ionic capacitor sync android
+
+
+ionic capacitor copy android
+
+
+ionic capacitor open android
+
+
+
+
+
+
